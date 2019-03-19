@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const mongoose = require("mongoose");
+const monggose = require("mongoose");
 const passport = require("passport");
 
 // load profile model
